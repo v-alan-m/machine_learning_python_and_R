@@ -1,1 +1,1 @@
-# machine_learning_python_and_R
+# Machine learning python and R
